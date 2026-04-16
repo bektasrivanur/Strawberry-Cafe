@@ -4,8 +4,7 @@ A simple and elegant cafe website built with **HTML, CSS, and JavaScript**.
 It includes sections for salty snacks, sweet treats, drinks, contact information, and an online order form.
 
 ## Purpose
-This cafe website is a **fictional, responsive, SEO-friendly project** created to strengthen my knowledge of **HTML, CSS, and JavaScript**.  
-All photos used are **sample images found on Pinterest**
+This cafe website is a **fictional, responsive, SEO-friendly project** created to strengthen my knowledge of **HTML, CSS, and JavaScript**. The Locatlon is fake and all photos used are **sample images found on Pinterest**
 
 ## Features
 -  **Salty Snacks Menu**: 10 items with images, prices, and details toggle.
@@ -28,7 +27,7 @@ All photos used are **sample images found on Pinterest**
 -img (Images Folder)
 
 ## How to Use
-1. Open the demo=
+1. Open the Live Demo=https://bektasrivanur.github.io/Strawberry-Cafe/
 3. Navigate through the menu (Salty Foods, Sweet Treats, Drinks, Contact, Order).
 4. Use the **Details** button to reveal ingredients.
 5. Submit the **Order Form** to place an order (demo only).
