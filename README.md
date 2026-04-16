@@ -8,25 +8,24 @@ This cafe website is a **fictional, responsive, SEO-friendly project** created t
 All photos used are **sample images found on Pinterest**
 
 ## Features
-- 🍴 **Salty Snacks Menu**: 10 items with images, prices, and details toggle.
-- 🍰 **Sweet Treats Menu**: 10 items with images, prices, and details toggle.
-- 🥤 **Drinks Menu**: 10 items with images, prices, and details toggle.
-- 📞 **Contact Section**: Contact form + cafe info (address, phone, email).
-- 🛒 **Order Section**: Online order form with item selection and quantity.
-- 🎨 **Consistent Styling**: Shared classes (`menu-grid`, `menu-item`, `price`, `details-btn`, `details`) for all menus.
-- ✨ **Responsive Layout**: Items displayed in a 2-column grid.
+-  **Salty Snacks Menu**: 10 items with images, prices, and details toggle.
+-  **Sweet Treats Menu**: 10 items with images, prices, and details toggle.
+-  **Drinks Menu**: 10 items with images, prices, and details toggle.
+-  **Order Section**: Online order form with item selection and quantity.
+-  **Contact Section**: Contact form + cafe info (address, phone, email).
+-  **Consistent Styling**: Shared classes (`menu-grid`, `menu-item`, `price`, `details-btn`, `details`) for all menus.
+-  **Responsive Layout**: Items displayed in a 2-column grid.
 
-## Project Structure
-/img              -> images for menu items
-index.html        -> homepage
-saltyfoods.html   -> salty snacks menu
-sweettreats.html  -> sweet treats menu
-drinks.html       -> drinks menu
-contact.html      -> contact page
-order.html        -> order page
-style.css         -> styling
-script.js         -> JavaScript (details toggle)
-
+## Files
+-index.html (Home)
+-saltyfoods.html (Salty Snacks Menu)
+-sweettreats.html (Sweet Treats Menu)
+-drinks.html (Drinks Menu)
+-order.html (Order)
+-contact.html (Contact)
+-style.css (CSS)
+-script.js (JavaScript)
+-img (Images Folder)
 
 ## How to Use
 1. Open the demo=
