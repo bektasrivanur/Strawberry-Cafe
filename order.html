@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order - Strawberry Cafe</title>
+    <meta name="description" content=" Strawberry Cafe is a web design project that blends cozy aesthetics with modern coding practices. It showcases how design and functionality can come together in a simple yet elegant way.">
+    <meta name="keywords" content="Strawberry Cafe, cafe website, salty snacks, sweet treats, drinks menu, contact form, order online, cozy cafe">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Chewy&family=Ledger&family=Momo+Trust+Sans:wght@200..800&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <h1>Strawberry Cafe</h1>
+            </div>
+            <div class="navbar">
+                <a href="index.html">Home</a>
+                <a href="saltyfoods.html">Salty Foods</a>
+                <a href="sweettreats.html">Sweet Treats</a>
+                <a href="drinks.html">Drinks</a>
+                <a href="order.html">Order</a>
+                <a href="contact.html">Contact</a>
+            </div>
+        </div>
+        <section id="order">
+            <h2>Order Online</h2>
+            <div class="menu-grid">
+                <div class="menu-item">
+                    <h3>Place Your Order</h3>
+                    <form class="order-form">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" placeholder="Your Name" required>
+
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" placeholder="Your Email" required>
+
+                        <label for="item">Foods, treats or drink you want to order:</label>
+                        <input type="text" id="item" name="item" placeholder="Items You Want To Order" required>
+
+                        <label for="quantity">Quantity:</label>
+                        <input type="number" id="quantity" name="quantity" min="1" value="1" required>
+
+                        <button type="submit" class="details-btn">Submit Order</button>
+                    </form>
+                </div>
+
+                <div class="menu-item">
+                    <h3>Order Info</h3>
+                    <p class="price"> Delivery time: 30–45 minutes</p>
+                    <p class="price"> Payment: Cash or Card</p>
+                </div>
+            </div>
+        </section>
+        <footer class="footer">
+            <p>
+                Strawberry Cafe is a web design project that blends cozy aesthetics with modern coding practices.
+                It showcases how design and functionality can come together in a simple yet elegant way.
+            </p>
+            <div class="social-links">
+                <a href="https://github.com/bektasrivanur" target="_blank">
+                    <img src="img/github_logo.webp" alt="GitHub">
+                </a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
